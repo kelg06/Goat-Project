@@ -1,0 +1,11 @@
+body{
+  background-image: url("lebonbon.jpg");
+  background-size:cover;
+  background-attachment: fixed;
+}
+table{
+  background-color: none;
+  text-align: center;
+  margin: auto;
+  font-size: 18px;
+}
