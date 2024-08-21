@@ -1,8 +1,10 @@
 body{
-  background-image: url("lebonbon.jpg");
+  background-image: url("serious.jpg");
   background-size:cover;
   background-attachment: fixed;
   cursor: pointer;
+  color: white;
+  font-weight: bold;
 }
 table{
   background-color: none;
