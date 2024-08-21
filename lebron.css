@@ -1,11 +1,12 @@
 body{
-  background-image: url("serious.jpg");
+  background-image: url("newer.jpg");
   background-size:cover;
   background-attachment: fixed;
   cursor: pointer;
   color: white;
   font-weight: bold;
 }
+
 table{
   background-color: none;
   text-align: center;
